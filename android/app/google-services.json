@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815071960857",
+    "project_id": "al-nawader-36bfe",
+    "storage_bucket": "al-nawader-36bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815071960857:android:60c6b804c4b18338ecef88",
+        "android_client_info": {
+          "package_name": "com.goldensoft.noader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815071960857-846ce1vgs36seknv8go9thmt178cfhs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxrUqHsTS2lnUB8GiRs3pURwrDiJPbsUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815071960857-846ce1vgs36seknv8go9thmt178cfhs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
